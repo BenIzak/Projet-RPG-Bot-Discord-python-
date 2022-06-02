@@ -1167,4 +1167,4 @@ async def create_v(ctx, nom_de_salon):
 
 
 
-client.run("code here")
+client.run("bot ID here")
